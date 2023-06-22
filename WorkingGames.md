@@ -19,6 +19,8 @@ List of working and non-working games. Games not on this list have not been test
 
 ## Non-working games
 
+-Every Unreal Engine 
+
 - After The Fall
 - Beat Saber
 - Blaston
@@ -26,7 +28,8 @@ List of working and non-working games. Games not on this list have not been test
 - BONELAB
 - Google Chrome (WebXR)
 - Half-Life: Alyx
-- Pavlov VR
+- Hellsplit Arena
+- Pavlov VR (Legacy UE4 build)
 - Pistol Whip
 - PokerStars VR
 - Project Wingman
@@ -34,5 +37,5 @@ List of working and non-working games. Games not on this list have not been test
 - Rec Room
 - Skyrim VR
 - The Walking Dead: Saints & Sinners
-- VailVR
+- VailVR (UE4 Build)
 - Zenith MMO
