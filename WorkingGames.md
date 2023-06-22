@@ -14,6 +14,8 @@ List of working and non-working games. Games not on this list have not been test
 
 ## Non-working games
 
+-Every UE4 game(Pavlov VR, Vail, The Walking Dead: Saints & Sinners, etc.)
+
 - After The Fall
 - Beat Saber
 - Blaston
@@ -24,6 +26,4 @@ List of working and non-working games. Games not on this list have not been test
 - PokerStars VR
 - Rec Room
 - SkyrimVR
-- The Walking Dead: Saints & Sinners
-- VailVR
-- Zenith MMO
+- Zenith: The Last City
